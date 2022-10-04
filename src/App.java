@@ -96,7 +96,6 @@ public class App {
        System.out.printf("Altura média das mulheres: %.2f\n", alt_media_woman);
 
         sc.close(); 
-
 }
 
 }
